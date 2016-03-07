@@ -1,4 +1,4 @@
-ComputerCraft Developing Community is an unofficial community made by manu_03 that is intended to join all the developers to make better programs (our slogan is "better together").
+ComputerCraft Developing Community is an unofficial community made by [manu_03](https://github.com/manu-03) that is intended to join all the developers to make better programs (our slogan is "better together").
 
 Our organisation gitter is here: [![Join the chat at https://gitter.im/manu-03/CC-DevCommunity](https://badges.gitter.im/manu-03/CC-DevCommunity.svg)](https://gitter.im/manu-03/CC-DevCommunity?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
